@@ -1,0 +1,12 @@
+SLOFFDE pastpapers
+==================
+
+本项目使用以下开源软件构建：
+
+- Ginkgo <https://github.com/YangShu233-Snow/Ginkgo> —— MIT License
+  用于构建历年题交互站点。
+
+- MkDocs <https://github.com/mkdocs/mkdocs> —— BSD License
+  Ginkgo 的架构设计参考了 MkDocs。
+
+SLOFFDE 为独立项目，不复用 Ginkgo / ZJUBMS-Ginkgo 示例站的品牌、文案、页面设计或视觉资产。
