@@ -25,7 +25,7 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - run: pip install ginkgo-flashcards
+      - run: pip install ginkgo-flashcards==0.1.4
       - run: ginkgo build
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3

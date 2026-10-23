@@ -1,5 +1,6 @@
 website:
   title: 'SLOFFDE 历年题'
+  description: '<p>医学院学生会学术实践部整理的本科医学生（大一到大三）历年题。按 年级 → 科目 浏览。</p>'
 
 nav:
   - 大一:
