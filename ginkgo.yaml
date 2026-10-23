@@ -1,6 +1,6 @@
 website:
   title: 'SLOFFDE 历年题'
-  description: '<p>医学院学生会学术实践部整理的本科医学生（大一到大三）历年题。按 年级 → 科目 浏览。</p>'
+  description: '<p>医学院学生会学术实践部整理的本科大一到大三的医学生历年题，由历代学长学姐无私分享，在此致谢。</p><p>本站资料仅供学习交流，不作为临床诊疗依据；题目可能存在错误或过时，请以最新版统编教材与授课为准。</p><p>若你也有试卷或学习资料愿意分享？见 <a href="https://github.com/sloffde/pastpapers/blob/main/CONTRIBUTING.md">贡献指南</a>。</p>'
 
 nav:
   - 大一:
